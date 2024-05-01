@@ -18,8 +18,3 @@ Future prospects:
 
 The website has been made with Html,CSS,JavaScript and PHP as usual. Html for the framework, php for most of the project, css was only used in bare minimum fro the looks,
 JavaScript was used for form validations and alerts only. The database was done in MySQL.
-
-The footprint forums can be said to be said to be my first project, and second time participating in a hackathon. The website was made in 2 days so many of the features
-I wanted to add were not added due to time constraints. Overall the website can be said to be completed just need few more features to add the final touches.
-The CSS is pretty lacking and the website design is very plain and simple as it is not one of my strong suits.
-Any questions,suggestions and critisims are welcomed on my gmail, I will continue working on it even after the hackathon to complete it and achieve all the project goals.
